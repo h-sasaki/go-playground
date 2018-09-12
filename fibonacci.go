@@ -1,10 +1,10 @@
 package main
 
-import "fmt" 
+import "fmt"
 
 func main () {
-  m := 1 
-  n := 1 
+  m := 1
+  n := 1
 
   fmt.Println(m)
   fmt.Println(n)
