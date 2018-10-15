@@ -1,3 +1,3 @@
 # go-playground
 
-TEST
+Playground for learning Go
